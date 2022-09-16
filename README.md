@@ -5,6 +5,19 @@ Baphomate Inc
 # Hello, World<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 We are internet demons.
+#### Contact Me <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.webp" width="20px">
+<!--Personal-->
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/baphomate.inc)
+[![](https://img.shields.io/badge/Intagram-gray?logo=Instagram&logoColor=pink&labelColor=white)](https://instagram.com/baphomate.inc)
+[![](https://img.shields.io/badge/Whatsapp-Group-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://chat.whatsapp.com/HNrhMoLlD7VKLmn7R7o72S)
+<br/>
+<b>Support me via donate 🤗
+[![](https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white)](https://paypal.me/yagamiid)
+
+BTC address: 
+``` 
+15PgLTco7eBqFyCMy97Tm9wKKnYqQKsfNX
+```
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -20,17 +33,6 @@ We are internet demons.
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
-
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Python List Comprehensions Are More Powerful Than You Might Think](https://martinheinz.dev/blog/80)
-- [You Should Be Using Python&#39;s Walrus Operator - Here&#39;s Why](https://martinheinz.dev/blog/79)
-- [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://martinheinz.dev/blog/78)
-- [It&#39;s Time to Say Goodbye to These Python Libraries](https://martinheinz.dev/blog/77)
-<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
 
@@ -66,9 +68,9 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://Instagram.com/baphomate.inc
 [2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.facebook.com/baphomate.inc
 
 
 <!-- Resources -->
