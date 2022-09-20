@@ -36,14 +36,14 @@ BTC address:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/baphomate/baphomate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baphomate&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/baphomate/baphomate">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=baphomate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/baphomate/toolkit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baphomate&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
@@ -69,7 +69,7 @@ BTC address:
 <!-- links to your social media accounts -->
 
 [1]: https://Instagram.com/baphomate.inc
-[2]: https://github.com/MartinHeinz
+[2]: https://github.com/baphomate
 [3]: https://www.facebook.com/baphomate.inc
 
 
