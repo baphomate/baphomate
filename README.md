@@ -14,6 +14,8 @@ We are internet demons.
 <b>Support me via donate 🤗
 [![](https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white)](https://paypal.me/yagamiid)
 
+<a href="https://saweria.co/baphomate">Donate via Saweria dana,ovo,gopay</a>
+
 BTC address: 
 ``` 
 15PgLTco7eBqFyCMy97Tm9wKKnYqQKsfNX
