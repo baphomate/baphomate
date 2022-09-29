@@ -10,6 +10,7 @@ We are internet demons.
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://m.facebook.com/baphomate.inc)
 [![](https://img.shields.io/badge/Intagram-gray?logo=Instagram&logoColor=pink&labelColor=white)](https://instagram.com/baphomate.inc)
 [![](https://img.shields.io/badge/Whatsapp-Group-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://chat.whatsapp.com/HNrhMoLlD7VKLmn7R7o72S)
+[![](https://img.shields.io/badge/Telegram-Group-blue?logo=Telegram&logoColor=Brightgreen&labelColor=white)](https://t.me/+YYWwY0TcB1kwNmI1)
 <br/>
 <b>Support me via donate 🤗
 [![](https://img.shields.io/badge/Paypal-blue?logo=Paypal&logoColor=Brightblue&labelColor=white)](https://paypal.me/yagamiid)
