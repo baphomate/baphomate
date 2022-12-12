@@ -48,7 +48,9 @@ BTC address:
 <a href="https://github.com/baphomate/baphomate">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=baphomate&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
+<a href="https://github.com/baphomate/Baphomate-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baphomate&repo=Baphomate-AI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 <a href="https://github.com/baphomate/toolkit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baphomate&repo=toolkit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -57,6 +59,8 @@ BTC address:
 <a href="https://github.com/baphomate/homescreen-termux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baphomate&repo=homescreen-termux&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+
 
 <!-- links to social media icons -->
 
