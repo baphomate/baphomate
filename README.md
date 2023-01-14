@@ -1,11 +1,11 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!--.  More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [![Header](https://avatars.githubusercontent.com/u/113658145?s=400&u=a3498079f426faf7ea0ab8bc108cffa738d54ccb&v=4 "Header")](https://baphomate.github.io)
 #### Visit website and forum:
 <p><a href="https://baphomate.rf.gd">Website</a>
 <p><a href="https://forums.baphomate.rf.gd">Join Forums</a>
 <p>
-# Hello, World<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, All<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 We are internet demons.
 #### Contact Me <img src="https://github.com/Kklmfir/Kklmfir/blob/main/Assets/giphy.webp" width="20px">
